@@ -33,7 +33,7 @@ SQL	Data Extraction & Aggregation
 Python (Pandas)	Data Cleaning & RFM Analysis
 Power BI	Dashboard & Data Visualization
 GitHub	Project Documentation
-📂 Dataset
+
 
 Dataset: Brazilian Olist E-Commerce Dataset
 
@@ -46,6 +46,8 @@ Products
 Reviews
 Sellers
 Order Items
+
+
 📊 Project Workflow
 Raw Dataset
       │
@@ -72,9 +74,10 @@ Business Insights
       │
       ▼
 Recommendations
-📈 Dashboard Features
 
-The dashboard includes:
+
+📈 Dashboard Features
+    The dashboard includes:
 
 Total Revenue
 Total Customers
@@ -85,7 +88,7 @@ Revenue by Customer Segment
 Customer Distribution by Segment
 Revenue Trend
 Customer Geographic Distribution
-👥 Customer Segments
+Customer Segments
 
 Customers were classified into:
 ❤️ Loyal Customers
@@ -99,35 +102,22 @@ Customers were classified into:
 1️⃣ Lost Customers
 Represent 24.1% of customers.
 Generate only 8.4% of revenue.
-
-Insight
-
 Many customers purchase once and never return.
 
 2️⃣ New Customers
 Account for 23.4% of customers.
 Contribute 8.3% of total revenue.
-
-Insight
-
 Customer acquisition is strong, but retention can be improved.
 
 3️⃣ High-Value Customers
-
 High-Value New and High-Value Lost customers contribute nearly 60% of total revenue.
-
-Insight
-
 Retaining these customers will have the greatest impact on revenue.
 
 4️⃣ Average Customers
-
 Nearly 19.2% of customers belong to this segment.
-
 These customers have high potential to become loyal customers through personalized engagement.
 
 5️⃣ Champion Customers
-
 Although Champions represent only a small percentage of customers, they are highly engaged and should be rewarded to maintain loyalty.
 
 💡 Business Recommendations
@@ -135,26 +125,31 @@ Although Champions represent only a small percentage of customers, they are high
 Personalized email campaigns
 Discount coupons
 Product recommendations
+
 ✅ Retain High-Value Customers
 VIP Membership
 Early access to sales
 Loyalty rewards
 Exclusive offers
+
 ✅ Convert New Customers into Loyal Customers
 Welcome discounts
 Loyalty points
 Follow-up emails
 Personalized recommendations
+
 ✅ Increase Revenue from Average Customers
 Cross-selling
 Upselling
 Personalized promotions
+
 ✅ Reward Champion Customers
 Referral programs
 Premium membership
 Exclusive discounts
-📊 Business Impact
 
+
+📊 Business Impact
 This project enables businesses to:
 
 Improve customer retention
@@ -163,6 +158,8 @@ Increase repeat purchases
 Optimize marketing campaigns
 Enhance customer lifetime value
 Make data-driven business decisions
+
+
 🚀 Skills Demonstrated
 SQL
 Joins
