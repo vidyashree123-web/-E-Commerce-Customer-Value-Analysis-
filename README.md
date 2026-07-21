@@ -1,4 +1,4 @@
-# -E-Commerce-Customer-Value-Analysis
+# E-Commerce-Customer-Value-Analysis
 E-Commerce Customer Value Analysis using RFM Segmentation
 
 An End-to-End Data Analytics Project using SQL, Python (Pandas), and Power BI
