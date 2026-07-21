@@ -100,7 +100,9 @@ Customers were classified into:
 🔁 At Risk
 ❌ Lost
 💎 High-Value Lost
+
 📌 Key Insights
+
 1️⃣ Lost Customers
 Represent 24.1% of customers.
 Generate only 8.4% of revenue.
