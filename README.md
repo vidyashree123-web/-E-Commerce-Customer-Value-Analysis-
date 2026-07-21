@@ -4,7 +4,6 @@ E-Commerce Customer Value Analysis using RFM Segmentation
 An End-to-End Data Analytics Project using SQL, Python (Pandas), and Power BI
 
 📌 Project Overview
-
 Customer retention is one of the biggest challenges in e-commerce. Understanding customer purchasing behavior helps businesses increase revenue, improve customer loyalty, and reduce churn.
 
 In this project, I analyzed the Brazilian Olist E-Commerce dataset and performed RFM (Recency, Frequency, Monetary) Segmentation to identify different customer groups based on their purchasing behavior.
@@ -20,6 +19,7 @@ Which customers are at risk of leaving?
 How can customer retention be improved?
 Which customer segments should receive targeted marketing campaigns?
 How can business decisions be made using customer data?
+
 🎯 Project Objectives
 Analyze customer purchasing behavior.
 Perform RFM Segmentation.
@@ -27,6 +27,8 @@ Build an interactive Power BI dashboard.
 Identify high-value and lost customers.
 Generate actionable business recommendations.
 Support data-driven marketing decisions.
+
+
 🛠️ Tech Stack
 Tool	Purpose
 SQL	Data Extraction & Aggregation
